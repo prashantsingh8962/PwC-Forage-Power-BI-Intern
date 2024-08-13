@@ -1,4 +1,4 @@
-# PwC-Forage-Power-BI-Intern
+# PwC_Forage_Power_BI_Intern
 
 
 1. Creating a dashboard in Power BI for Claire(Call Centre Manager) that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. 
