@@ -49,16 +49,16 @@ Think about the importance of strategy, awareness and education, analytics and i
 
 Here is a hint: Calculating the following measures could help to define proper KPIs:
 
-# of men
-# of women
-# of leavers
-% employees promoted (FY21)
-% of women promoted
-% of hires men
-% of hires women
-% turnover 
-Average performance rating: men
-Average Performance rating: women
+- of men
+- of women
+- of leavers
+- % employees promoted (FY21)
+- % of women promoted
+- % of hires men
+- % of hires women
+- % turnover 
+- Average performance rating: men
+- Average Performance rating: women
 
 My task is to do the following:
 - Define relevant KPIs in hiring, promotion, performance and turnover, and create a visualisation
