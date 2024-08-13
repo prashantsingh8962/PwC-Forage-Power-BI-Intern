@@ -47,9 +47,9 @@ At PwC Switzerland we are often approached by clients seeking support with diver
 ### Why is this so?
 Here is a hint: Calculating the following measures could help to define proper KPIs:
 
-- of men
-- of women
-- of leavers
+- Total no.s of men
+- Total no.s of women
+- Total no.s of leavers
 - % employees promoted (FY21)
 - % of women promoted
 - % of hires men
