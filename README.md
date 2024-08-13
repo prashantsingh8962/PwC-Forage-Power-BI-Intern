@@ -1,5 +1,6 @@
 # PwC-Forage-Power-BI-Intern
 
+
 1. Creating a dashboard in Power BI for Claire(Call Centre Manager) that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. 
 
 Possible KPIs include (to get you started, but not limited to):
@@ -12,6 +13,7 @@ Possible KPIs include (to get you started, but not limited to):
 [Call Centre Dashboard](https://github.com/prashantsingh8962/PwC-Forage-Power-BI-Intern/blob/main/Dashboard/pwc.pbix)
 
 <img src="https://github.com/prashantsingh8962/PwC_Forage_PowerBI_Intern/blob/main/Resources/PwC%20Call%20Centre.png" class="center">
+
 
 
 2. A few weeks after presenting my dashboard to the management, the Retention Manager from the telecom reaches out to you directly. He was impressed by your work and asked if I can put together a dashboard about customer retention.
@@ -33,6 +35,7 @@ My colleague, the engagement partner, asks me to do the following tasks:
   [Call Retention Dashboard](https://github.com/prashantsingh8962/PwC-Forage-Power-BI-Intern/blob/main/Dashboard/Pwc.Retention.pbix)
 
   <img src="https://github.com/prashantsingh8962/PwC_Forage_PowerBI_Intern/blob/main/Resources/PwC%20Retention.png" class="center">
+
 
 
 
